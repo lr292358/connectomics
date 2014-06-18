@@ -1,0 +1,45 @@
+2
+iNet1_Size100_CC04inh
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+               selected frames number= 1291 
+
+
+trans...
+AVG SPLIT LEN:  2.78232758621
+iNet1_Size100_CC05inh
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+               selected frames number= 1171 
+
+
+trans...
+AVG SPLIT LEN:  2.89135802469
+iNet1_Size100_CC06inh
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+               selected frames number= 2043 
+
+
+trans...
+AVG SPLIT LEN:  3.04925373134
+1004
+8896
+0 ... building the model
+Shape.0
+finished reading 1.25247362307 minutes 
+... training
+ 1) err 13.30  330 [18, 40, 15] 100 | 5 5 1 100
+     epoch 1, minibatch 480/480, test error of best model 14.200000 %
+finished learning 5.97033410188 minutes 
+DELTAshift: 160.166666667
+1 / 7    2 / 7    3 / 7    4 / 7    5 / 7    6 / 7    7 / 7    Finished 0
+DELTAshift: 285.5
+1 / 7    2 / 7    3 / 7    4 / 7    5 / 7    6 / 7    7 / 7    Finished 1
+finished predicting 7.43774657383 minutes  [18, 40, 15] using SEED =  8000
+The code for file run.py ran for 14.66m
+RES: 89.91 Small4, 95.46 Small6
+Wrote solution to ./res_Small_4_6.csv

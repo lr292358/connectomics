@@ -1,0 +1,100 @@
+20
+normal-1
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+              selected frames number =  1852 
+
+
+trans...
+AVG SPLIT LEN:  3.65285996055
+normal-3
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+              selected frames number =  1495 
+
+
+trans...
+AVG SPLIT LEN:  3.56801909308
+normal-2
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+              selected frames number =  1553 
+
+
+trans...
+AVG SPLIT LEN:  3.42825607064
+reading valid...
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+              selected frames number =  1541 
+
+
+trans...
+AVG SPLIT LEN:  3.59207459207
+reading test...
+opening
+0 %  10 %  20 %  30 %  40 %  50 %  60 %  70 %  80 %  90 %  100 %  
+
+              selected frames number =  1513 
+
+
+trans...
+AVG SPLIT LEN:  3.26077586207
+150.884213013
+-0.191 0.928 20.007 493.286
+150.588952759
+153.075295357
+157.725847664
+153.982362766
+11949
+987051
+0 1 2 3 ... building the model
+Shape.0
+finished reading 39.1126666667 minutes 
+... training
+ 1) err 13.71  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 1, minibatch 1152/1152, test error of best model 13.345833 %
+ 2) err 13.46  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 2, minibatch 1152/1152, test error of best model 13.116667 %
+ 3) err 13.29  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 3, minibatch 1152/1152, test error of best model 13.033333 %
+ 4) err 13.35  330 [18, 40, 15] 100 | 5 5 1 1000
+ 5) err 13.33  330 [18, 40, 15] 100 | 5 5 1 1000
+ 6) err 13.34  330 [18, 40, 15] 100 | 5 5 1 1000
+ 7) err 13.20  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 7, minibatch 1152/1152, test error of best model 12.983333 %
+ 8) err 13.10  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 8, minibatch 1152/1152, test error of best model 12.875000 %
+ 9) err 13.11  330 [18, 40, 15] 100 | 5 5 1 1000
+ 10) err 12.96  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 10, minibatch 1152/1152, test error of best model 12.662500 %
+ 11) err 13.00  330 [18, 40, 15] 100 | 5 5 1 1000
+ 12) err 12.94  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 12, minibatch 1152/1152, test error of best model 12.600000 %
+ 13) err 12.91  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 13, minibatch 1152/1152, test error of best model 12.570833 %
+ 14) err 12.97  330 [18, 40, 15] 100 | 5 5 1 1000
+ 15) err 12.94  330 [18, 40, 15] 100 | 5 5 1 1000
+ 16) err 12.99  330 [18, 40, 15] 100 | 5 5 1 1000
+ 17) err 12.97  330 [18, 40, 15] 100 | 5 5 1 1000
+ 18) err 12.92  330 [18, 40, 15] 100 | 5 5 1 1000
+ 19) err 12.82  330 [18, 40, 15] 100 | 5 5 1 1000
+     epoch 19, minibatch 1152/1152, test error of best model 12.495833 %
+ 20) err 12.95  330 [18, 40, 15] 100 | 5 5 1 1000
+finished learning 747.141166667 minutes 
+DELTAshift: 89.6153846154
+1 / 14    2 / 14    3 / 14    4 / 14    5 / 14    6 / 14    7 / 14    8 / 14    9 / 14    10 / 14    11 / 14    12 / 14    13 / 14    14 / 14    Finished 0
+DELTAshift: 91.0
+1 / 14    2 / 14    3 / 14    4 / 14    5 / 14    6 / 14    7 / 14    8 / 14    9 / 14    10 / 14    11 / 14    12 / 14    13 / 14    14 / 14    Finished 1
+DELTAshift: 93.1538461538
+1 / 14    2 / 14    3 / 14    4 / 14    5 / 14    6 / 14    7 / 14    8 / 14    9 / 14    10 / 14    11 / 14    12 / 14    13 / 14    14 / 14    Finished 2
+DELTAshift: 94.0769230769
+1 / 14    2 / 14    3 / 14    4 / 14    5 / 14    6 / 14    7 / 14    8 / 14    9 / 14    10 / 14    11 / 14    12 / 14    13 / 14    14 / 14    Finished 3
+finished predicting 112.743666667 minutes  [18, 40, 15] using SEED =  80001
+The code for file dziala.py ran for 899.00m
+Wrote solution of VER == 2 to: 5825
+RES: 93.88 learning (93.84, 93.93)
