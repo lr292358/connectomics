@@ -6,6 +6,8 @@ This file contains description how to run the Solution.
     Libraries versions:
     Python 2.6.6 with Numpy 1.4.1 [Linux] (Demo tested also on Python 2.7.6 & Numpy 1.8.0 & Windows)
     Theano 0.6.0 (the newest)
+    We use Theano for fast execution on a GPU and the code of 
+    Lenet5 CNN from the Theano tutorial: http://deeplearning.net/tutorial/lenet.html
 
     In general, the code will probably run on any newer Python 2.x with Numpy & Theano.
     The Demo can be run even on a CPU in 15 minutes. It tests whole code on small networks.
